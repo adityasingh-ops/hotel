@@ -14,7 +14,7 @@ I would like to inquire about booking the ${venueType} for my upcoming event. Pl
 3. Included amenities and services
 4. Catering options
 5. Decoration policies
-6. Any additional charges
+6. Any additional chargesdad
 Event Details:
 - Venue: ${venueType}
 - Expected Guests: 
