@@ -15,14 +15,12 @@ I would like to inquire about booking the ${venueType} for my upcoming event. Pl
 4. Catering options
 5. Decoration policies
 6. Any additional charges
-
 Event Details:
 - Venue: ${venueType}
 - Expected Guests: 
 - Event Date: 
 - Event Type: 
-- Special Requirements: 
-
+- Special Requirements: git@github.com:adityasingh-ops/hotel.git
 Thank you for your time. I look forward to hearing from you soon.
 
 Best regards,`;
